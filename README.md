@@ -18,5 +18,4 @@ Pinned Projects
 MakerPlan — carpentry planning tool using scikit-learn + Groq/LLaMA API, Flask, CI/CD
 MovieLens Hybrid Recommender — SVD/NMF/KNN ensemble, AUC-ROC 0.90 fraud detection pipeline
 Multi-source ETL Pipeline — dual-pipeline architecture, PostgreSQL daily sharding (WeThinkCode)
-SUSAN — FastAPI-based administrative system built for Enactus UNIZULU
 <p align="center"><i>Keep learning. Keep building. Keep growing. 🚀</i></p>
