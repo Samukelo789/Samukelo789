@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Samukelo</h1> <p align="center"> <b>Data Engineer</b> | Microsoft Fabric, Power BI &amp; AWS | Final-year CS & Chemistry @ University of Zululand </p> <p align="center"> <a href="https://linkedin.com/in/samukelo-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> <a href="mailto:isitsamukelo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a> </p>
+<h1 align="center">Hi there , I'm Samukelo</h1> <p align="center"> <b>Data Engineer|Data Analyst</b> | Microsoft Fabric, Power BI &amp; AWS | Final-year CS & Chemistry @ University of Zululand </p> <p align="center"> <a href="https://linkedin.com/in/samukelo-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> <a href="mailto:isitsamukelo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a> </p>
 About Me
 🎓 Final-year BSc Computer Science & Chemistry student at the University of Zululand — graduating November 2026
 🛠️ Currently building: cloud data pipelines on Microsoft Fabric (Lakehouse, Delta Lake, Spark) and AWS (S3, Docker, CI/CD)
@@ -12,8 +12,6 @@ Tech Stack
 GitHub Stats
 <p align="left"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samukelo789&show_icons=true&theme=dark" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samukelo789&layout=compact&theme=dark" /> </p>
 Pinned Projects
-
-(pick 4-6 of your strongest repos here — a few candidates from your history below)
 
 MakerPlan — carpentry planning tool using scikit-learn + Groq/LLaMA API, Flask, CI/CD
 MovieLens Hybrid Recommender — SVD/NMF/KNN ensemble, AUC-ROC 0.90 fraud detection pipeline
